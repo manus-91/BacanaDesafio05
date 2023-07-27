@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Pulsera de cristales",
+    "price": 5000,
+    "description": "Pulsera con dijes de cristales",
+    "code": "12345",
+    "title": "Bijouterie bacana",
+    "stock": 10,
+    "thumbnail": "https://d2r9epyceweg5n.cloudfront.net/stores/949/141/products/whatsapp-image-2022-04-22-at-10-15-36-am-11-eec61d1ad78ce1928216506489823592-1024-1024.jpeg"
+  },
+
+  {
+    "name": "Strap Phone",
+    "price": 2000,
+    "description": "Strap Phone para sujetar el celular",
+    "code": "123456",
+    "title": "Bijouterie bacana",
+    "stock": 10,
+    "thumbnail": "https://http2.mlstatic.com/D_Q_NP_917704-MLA50848147066_072022-W.jpg"
+  },
+
+  {
+    "name": "Collar corto de perlas",
+    "price": 10000,
+    "description": "Collar corto de perlas",
+    "code": "1234567",
+    "title": "Bijouterie bacana",
+    "stock": 10,
+    "thumbnail": "https://i.pinimg.com/736x/03/c7/e9/03c7e9bc48739a19349ad445d7204929--lupe-lourdes.jpg"
+  }
+]
